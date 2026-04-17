@@ -68,8 +68,44 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-> *(Add your Power BI screenshots here)*
+> <img width="630" height="382" alt="coffee shop analysis" src="https://github.com/user-attachments/assets/a9d257b9-f480-4e5f-8e85-873ea1aca689" />
+
 
 ---
 
 ## 📁 Project Structure
+
+📦 coffee-shop-sales-analysis
+┣ 📄 README.md
+┣ 📄 coffee_shop_analysis.sql
+┣ 📊 dashboard.pbix
+┣ 📁 dataset
+┗ 📸 screenshots
+---
+
+## 🧠 Key Insights
+- 📈 Sales vary significantly across months  
+- ⏰ Peak hours drive maximum revenue  
+- 🛍️ Few products contribute most revenue  
+- 📍 Store performance differs across locations  
+
+---
+
+## ✅ Conclusion
+This project demonstrates how **SQL + Power BI** can be used together for end-to-end data analysis and business intelligence.
+
+---
+
+## 🚀 Project Highlights
+✔ Advanced SQL (Window Functions, Time Analysis)  
+✔ Business KPI Analysis  
+✔ Interactive Power BI Dashboard  
+✔ End-to-End Data Workflow  
+
+---
+
+## 📬 Connect with Me
+- LinkedIn: *(Add your link)*
+- GitHub: *(Your profile)*
+
+---
