@@ -105,7 +105,7 @@ This project demonstrates how **SQL + Power BI** can be used together for end-to
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: *(Add your link)*
-- GitHub: *(Your profile)*
+- LinkedIn: www.linkedin.com/in/rachit-makkar-49173a310
+- GitHub: Rachit13-hub
 
 ---
